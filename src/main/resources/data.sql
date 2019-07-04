@@ -1,0 +1,2 @@
+INSERT INTO BUKU (id_buku, title_book, nama_depan_pengarang, nama_belakang_pengarang, status_peminjaman, nama_peminjam, created_at, updated_at)
+VALUES(1, 'sang penantang','warlock','lockwar',2,'katro', '2019-07-04', '2019-07-04');
